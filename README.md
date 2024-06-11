@@ -1,10 +1,14 @@
 📒Descrição
+
 Este e-book de 22 páginas explora a lógica de programação.
 
 🤖 Tecnologias Utilizadas
+
 IA Generativa ChatGPT para roteirização;
 Ferramenta Livre canva para edição.
+
 🧐 Processo de Criação
+
 Utilizei o "ChatGPT" para revisar minha pesquisa sobre a logística de programação, estruturar o conteúdo e refinar minhas ideias. A montagem final foi feita no Libre canva , por ser uma ferramenta open-source para edição de texto.
 
 
